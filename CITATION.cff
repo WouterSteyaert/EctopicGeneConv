@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper."
+title: "Sequence architecture drives allele frequency through ectopic gene conversion in humans"
+type: software
+version: "1.0"
+date-released: "2026-XX-XX"   # FILL IN at release
+url: "https://github.com/WouterSteyaert/EctopicGeneConv"
+repository-code: "https://github.com/WouterSteyaert/EctopicGeneConv"
+license: "MIT"   # CHANGE if your LICENSE file uses a different one
+authors:
+  - family-names: Steyaert
+    given-names: Wouter
+    # ORCID: "https://orcid.org/0000-0000-0000-0000"   # FILL IN if you want
+  # ADD CO-AUTHORS HERE in paper order, e.g.:
+  # - family-names: Surname
+  #   given-names: Given Name
+  #   affiliation: "Institution"
+preferred-citation:
+  type: article
+  title: "Sequence architecture drives allele frequency through ectopic gene conversion in humans"
+  authors:
+    - family-names: Steyaert
+      given-names: Wouter
+    # ADD CO-AUTHORS HERE in paper order
+  year: 2026                    # FILL IN
+  journal: "TBD"                # FILL IN journal name at acceptance
+  doi: "10.XXXX/XXXXXX"         # FILL IN paper DOI at publication
+  # volume: ""
+  # issue: ""
+  # start: ""                   # first page
+  # end: ""                     # last page
+# Optional: DOI of the software archive itself (e.g. Zenodo snapshot of this release).
+# Add after enabling Zenodo<->GitHub integration and publishing the v1.0 release.
+# identifiers:
+#   - type: doi
+#     value: "10.5281/zenodo.XXXXXXX"
+#     description: "Zenodo archive of v1.0"
